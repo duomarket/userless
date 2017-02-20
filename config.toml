@@ -1,0 +1,6 @@
+Cert = "/home/keys/login/server.crt"
+Key = "/home/keys/login/server.key"
+CouchURL = "http://couchserver:port"
+SESEndpoint = ""
+SESAccessKeyID = ""
+SESSecretAccessKey = ""

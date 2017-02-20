@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "hqDDDpue/5363luidNMBS8z8eJU=",
+			"path": "github.com/BurntSushi/toml",
+			"revision": "99064174e013895bbd9b025c31100bd1d9b590ca",
+			"revisionTime": "2016-07-17T15:07:09Z"
+		},
+		{
+			"checksumSHA1": "LLVyR2dAgkihu0+HdZF+JK0gMMs=",
+			"path": "github.com/agl/ed25519",
+			"revision": "278e1ec8e8a6e017cd07577924d6766039146ced",
+			"revisionTime": "2015-08-30T18:26:16Z"
+		},
+		{
+			"checksumSHA1": "30PBqj9BW03KCVqASvLg3bR+xYc=",
+			"path": "github.com/agl/ed25519/edwards25519",
+			"revision": "278e1ec8e8a6e017cd07577924d6766039146ced",
+			"revisionTime": "2015-08-30T18:26:16Z"
+		},
+		{
+			"checksumSHA1": "7C6aY1H59+LyoFYxgk3IGpWZal4=",
+			"path": "github.com/elgs/gostrgen",
+			"revision": "9d61ae07eeaeb54ce2100022b1fd3ea020093d09",
+			"revisionTime": "2016-12-22T16:07:15Z"
+		},
+		{
+			"checksumSHA1": "Kxjc8Efryx3C/elsRmCW/UEM7sc=",
+			"path": "github.com/fjl/go-couchdb",
+			"revision": "1f327c218d24c98ba4067e086a2787c1488ba558",
+			"revisionTime": "2014-07-04T15:13:33Z"
+		},
+		{
+			"checksumSHA1": "IAm3FQJ8F1eP4aFmE1sGEjbxK2Y=",
+			"path": "github.com/gorilla/handlers",
+			"revision": "6d39a51b4b5238fb818fe7ee0d0527dc5bf16d07",
+			"revisionTime": "2017-02-09T23:41:56Z"
+		},
+		{
+			"checksumSHA1": "F5dR3/i70EhSIMZfeIV+H8/PtvM=",
+			"path": "github.com/gorilla/mux",
+			"revision": "392c28fe23e1c45ddba891b0320b3b5df220beea",
+			"revisionTime": "2017-01-18T13:43:44Z"
+		},
+		{
+			"checksumSHA1": "5NJ0D29BrSO9yfr6jb2PxfbIfNQ=",
+			"path": "github.com/jbenet/go-base58",
+			"revision": "6237cf65f3a6f7111cd8a42be3590df99a66bc7d",
+			"revisionTime": "2015-03-17T08:51:56Z"
+		},
+		{
+			"checksumSHA1": "KIX/3RadQkfl4ZxCmOQ01vAGLEI=",
+			"path": "github.com/juju/errors",
+			"revision": "6f54ff6318409d31ff16261533ce2c8381a4fd5d",
+			"revisionTime": "2016-08-09T03:08:48Z"
+		},
+		{
+			"checksumSHA1": "e+EUA8YJBJMD7uqUKBPOCsUbM9k=",
+			"path": "github.com/multiformats/go-multihash",
+			"revision": "6becc51c635d43eb3ab4783e1e4777c7f0e6e785",
+			"revisionTime": "2017-01-06T22:51:21Z"
+		},
+		{
+			"checksumSHA1": "BoXdUBWB8UnSlFlbnuTQaPqfCGk=",
+			"path": "github.com/op/go-logging",
+			"revision": "970db520ece77730c7e4724c61121037378659d9",
+			"revisionTime": "2016-03-15T20:05:05Z"
+		},
+		{
+			"checksumSHA1": "IgV+nP33TVGLHAMes3git2Cywvg=",
+			"path": "github.com/sourcegraph/go-ses",
+			"revision": "6bd8d17cf7c125859a7211ae8f44126af826104b",
+			"revisionTime": "2016-04-05T16:09:39Z"
+		},
+		{
+			"checksumSHA1": "FZQEdq4axGzxfrzfMy2DeYtE8ok=",
+			"path": "golang.org/x/crypto/blake2b",
+			"revision": "2f8be38b9a7533b8763d48273737ff6e90428a96",
+			"revisionTime": "2017-01-10T16:23:43Z"
+		},
+		{
+			"checksumSHA1": "4+dTeSP3U8cTvZtiTLBxZ6aByMk=",
+			"path": "golang.org/x/crypto/blake2s",
+			"revision": "2f8be38b9a7533b8763d48273737ff6e90428a96",
+			"revisionTime": "2017-01-10T16:23:43Z"
+		},
+		{
+			"checksumSHA1": "DDHnuGCrmkKSXdNzc8pmn6P5O28=",
+			"path": "golang.org/x/crypto/sha3",
+			"revision": "2f8be38b9a7533b8763d48273737ff6e90428a96",
+			"revisionTime": "2017-01-10T16:23:43Z"
+		},
+		{
+			"checksumSHA1": "9jjO5GjLa0XF/nfWihF02RoH4qc=",
+			"path": "golang.org/x/net/context",
+			"revision": "f2499483f923065a842d38eb4c7f1927e6fc6e6d",
+			"revisionTime": "2017-01-14T04:22:49Z"
+		},
+		{
+			"checksumSHA1": "eFQDEix/mGnhwnFu/Hq63zMfrX8=",
+			"path": "golang.org/x/time/rate",
+			"revision": "f51c12702a4d776e4c1fa9b0fabab841babae631",
+			"revisionTime": "2016-10-28T04:02:39Z"
+		}
+	],
+	"rootPath": "github.com/duomoney/login"
+}
