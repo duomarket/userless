@@ -80,7 +80,7 @@ func validateChallenge(signedChallenge []byte) error {
 	}
 
 	challenge := signedChallenge[64:] // first 64 bytes are sig
-	challengeInt := binary.BigEndian.Uint32(challenge)
+	challengeInt := binary.BigEndian.Uint64(challenge)
 	challengeInt64 := int64(challengeInt)
 	if challengeInt64 == 0 { // zero doesn't play nice with the time package
 		return errTimeWindow
